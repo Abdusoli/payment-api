@@ -1,0 +1,18 @@
+.panel-body-sm {
+    height:120px;
+}
+
+.text-primary-green {
+    color:#5cb85c;
+}
+
+.header-logo {
+    max-width:80px;
+    margin-top:10px;
+    margin-right:10px;
+    cursor:default;
+}
+
+.header-title {
+    white-space: nowrap;
+}
